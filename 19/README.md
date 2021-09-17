@@ -1,4 +1,5 @@
 # Représentation des entiers
+## [COURS : binaire / décimal / hexadécimal](https://github.com/thfruchart/1nsi/blob/main/19/COURS_ENTIERS_Binaire_Hexa.ipynb)
 
 ### Hexadécimal
 * [Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
