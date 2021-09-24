@@ -1,7 +1,7 @@
 # Pour l'évaluation du jeudi 30 sept
 Revoir :
-* nombres entiers en binaire et hexadécimal [19](https://github.com/thfruchart/1nsi/tree/main/19)
-* boucle FOR [02](https://github.com/thfruchart/1nsi/tree/main/02)
+* nombres entiers en binaire et hexadécimal [[19]](https://github.com/thfruchart/1nsi/tree/main/19)
+* boucle FOR [[02]](https://github.com/thfruchart/1nsi/tree/main/02)
 
 Utiliser pour cela : 
 * [Travail Personnel sur la boucle FOR](https://github.com/thfruchart/1nsi/blob/main/02/BoucleFOR_TravailPerso.ipynb)
