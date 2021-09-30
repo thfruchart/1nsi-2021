@@ -1,4 +1,8 @@
 # Pour l'évaluation du jeudi 30 sept
+
+## [SUJET](https://genumsi.inria.fr/qcm.php?h=12372734086179a54769af55ec355b25)
+
+
 Revoir :
 * nombres entiers en binaire et hexadécimal [[19]](https://github.com/thfruchart/1nsi/tree/main/19)
 * boucle FOR [[02]](https://github.com/thfruchart/1nsi/tree/main/02)
