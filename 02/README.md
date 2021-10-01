@@ -2,6 +2,9 @@
 * [COURS](https://github.com/thfruchart/1nsi/blob/main/02/BoucleFOR.ipynb)
 * [Travail Personnel](https://github.com/thfruchart/1nsi/blob/main/02/BoucleFOR_TravailPerso.ipynb)
 * [Feuille d'exercices](https://github.com/thfruchart/1nsi/blob/main/02/ExosBoucleFor.pdf)
+  * [corrigé de l'ex4](https://github.com/thfruchart/1nsi/blob/main/02/exo4.py)
+  * [corrigé de l'ex5](https://github.com/thfruchart/1nsi/blob/main/02/exo5.py)
+  * [corrigé de l'ex6](https://github.com/thfruchart/1nsi/blob/main/02/exo6.py)
 * [Un exemple avec le module `turtle`](https://console.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/1nsi/main/02/turtle-script.py)
   * [Aide mémoire du module TURTLE](https://github.com/thfruchart/1nsi/blob/main/01/turtleref.pdf)
 
