@@ -11,3 +11,9 @@
   * usage pertinent des couleurs
   * adaptation de la taille du graphique en fonction du nombre total d’opérations à afficher  
   * traitement de la base 16 (hexadécimal)
+
+
+#### liens utiles
+* [turtle en bref](https://github.com/thfruchart/1nsi/blob/main/projet/turtle-en-bref.pdf)
+* [turtle en détails](https://github.com/thfruchart/1nsi/blob/main/projet/a-la-decouverte-de-turtle.pdf)
+* [turtle : documentation officielle de python](https://docs.python.org/fr/3/library/turtle.html)
