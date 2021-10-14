@@ -1,7 +1,8 @@
-# Mini-projet n°1 : conversion depuis la base 10 représentée avec Turtle.
+# Mini-projet n°1 : 
+## conversion depuis la base 10 vers la base 2, représentée avec Turtle.
 
 
-## Objectif : réaliser un support graphique permettant de détailler les calculs utiles pour convertir un nombre entier depuis la base 10 vers la base 2. 
+### Objectif : réaliser un support graphique permettant de détailler les calculs utiles pour convertir un nombre entier depuis la base 10 vers la base 2. 
 * Minimum attendu : 
   * traitement d’un cas particulier bien choisi, avec un nombre entier fixé.
 * Fonctionnalité souhaitée :
