@@ -8,4 +8,4 @@
 #### pour s'exercer :
 * [notebook de travail personnel1](https://github.com/thfruchart/1nsi/blob/main/S3/tuple_TravailPerso1.ipynb) : indices et longueur d'un p-uplet
 * [QCM d'entraînement](https://genumsi.inria.fr/qcm.php?h=b64984d23df65ec07e72acd39227cd50)
-* [notebook de travail personnel2]((https://github.com/thfruchart/1nsi/blob/main/S3/tuple_TravailPerso2.ipynb)) : fonctions et programmes utilisant le type `tuple`
+* [notebook de travail personnel2](https://github.com/thfruchart/1nsi/blob/main/S3/tuple_TravailPerso2.ipynb) : fonctions et programmes utilisant le type `tuple`
