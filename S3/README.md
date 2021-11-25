@@ -7,5 +7,5 @@
 - ex 2,3 p.49
 #### pour s'exercer :
 * [notebook de travail personnel1]() : indices et longueur d'un p-uplet
-* [QCM d'entraînement]()
+* [QCM d'entraînement](https://genumsi.inria.fr/qcm.php?h=b64984d23df65ec07e72acd39227cd50)
 * [notebook de travail personnel2]() : fonctions utilisant le type `tuple`
