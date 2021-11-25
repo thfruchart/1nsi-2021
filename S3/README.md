@@ -8,4 +8,4 @@
 #### pour s'exercer :
 * [notebook de travail personnel1]() : indices et longueur d'un p-uplet
 * [QCM d'entraînement]()
-* [notebook de travail personnel1]() : fonctions utilisant le type `tuple`
+* [notebook de travail personnel2]() : fonctions utilisant le type `tuple`
