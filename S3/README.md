@@ -9,3 +9,7 @@
 * [notebook de travail personnel1](https://github.com/thfruchart/1nsi/blob/main/S3/tuple_TravailPerso1.ipynb) : indices et longueur d'un p-uplet
 * [QCM d'entraînement](https://genumsi.inria.fr/qcm.php?h=b64984d23df65ec07e72acd39227cd50)
 * [notebook de travail personnel2](https://github.com/thfruchart/1nsi/blob/main/S3/tuple_TravailPerso2.ipynb) : fonctions et opérations utilisant le type `tuple`
+* écrire le code d'une fonction python `nombre_en_hexa` qui prend en paramètre un entier `n` compris entre 0 et 15 et qui renvoie le caractère correspondant à l'écriture de ce nombre en hexadécimal. Par exemple : 
+  *  `nombre_en_hexa(10)` renvoie `'A'`
+  *  `nombre_en_hexa(15)` renvoie `'F'`
+  *  `nombre_en_hexa(0)` renvoie `'0'`
