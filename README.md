@@ -1,6 +1,7 @@
 # 1nsi
 Dépôt des cours de première NSI@stpbb
 * [Représentation des entiers](https://github.com/thfruchart/1nsi/tree/main/19)
+* Entiers **relatifs** : [Complément à deux](https://github.com/thfruchart/1nsi/blob/main/19/COURS_COMPLEMENT_A_DEUX.ipynb)
 
 ## S2 : [encodage des caractères](https://github.com/thfruchart/1nsi/blob/main/S2/README.md)
 
