@@ -1,6 +1,6 @@
 # 1nsi
 Dépôt des cours de première NSI@stpbb
-## S1 : représentation des nombres
+## [S1 : représentation des nombres](https://github.com/thfruchart/1nsi/blob/main/19/README.md)
 * [Représentation des entiers](https://github.com/thfruchart/1nsi/tree/main/19)
 * Entiers **relatifs** : [Complément à deux](https://github.com/thfruchart/1nsi/blob/main/19/COURS_COMPLEMENT_A_DEUX.ipynb)
 
