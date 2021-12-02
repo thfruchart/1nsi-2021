@@ -1,5 +1,5 @@
 # Représentation des entiers
-## [COURS : Complément à deux]()
+## [COURS : Complément à deux](https://github.com/thfruchart/1nsi/blob/main/19/COURS_COMPLEMENT_A_DEUX.ipynb)
 #### QCM
 * [Entraînement : complément à deux](https://genumsi.inria.fr/qcm.php?h=a13ae06d6e2fdbff22b34b8d2526eb57)
 * [Evaluation : complément à deux](https://genumsi.inria.fr/qcm.php?h=a836c12cbc54f66da601539ac6e5fe8a)
