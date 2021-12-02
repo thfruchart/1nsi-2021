@@ -13,3 +13,17 @@
   *  `nombre_en_hexa(10)` renvoie `'A'`
   *  `nombre_en_hexa(15)` renvoie `'F'`
   *  `nombre_en_hexa(0)` renvoie `'0'`
+
+## 2. Notion de tableau : le type `list`
+#### dans le cahier
+- Activité 3 p. 42
+- Cours p.46-47
+  - création d'une liste
+  - création d'une liste de listes
+  - indexation des éléments de la liste
+  - modification de la liste par affectation
+#### pour s'exercer 
+* [notebook : indices d'une liste, affectations](https://github.com/thfruchart/1nsi/blob/main/S3/TravailPerso_IndicesListes_Affectation.ipynb)
+* [notebook : exercices](https://github.com/thfruchart/1nsi/blob/main/S3/Exercices.ipynb)
+* [notebook : TravailPerso TABLEAUX1](https://github.com/thfruchart/1nsi/blob/main/S3/TRAVAIL_PERSONNEL_Tableaux1.ipynb)
+* [notebook : TravailPerso TABLEAUX2](https://github.com/thfruchart/1nsi/blob/main/S3/TRAVAIL_PERSONNEL_Tableaux2.ipynb)
