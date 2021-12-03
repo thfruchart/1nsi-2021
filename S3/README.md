@@ -24,7 +24,7 @@
   - modification de la liste par affectation
 #### pour s'exercer 
 * [notebook : indices d'une liste, affectations](https://github.com/thfruchart/1nsi/blob/main/S3/TravailPerso_IndicesListes_Affectation.ipynb)
-* [notebook : exercices](https://github.com/thfruchart/1nsi/blob/main/S3/Exercices.ipynb)
+* [notebook : exercices](https://github.com/thfruchart/1nsi/blob/main/S3/Exercices.ipynb) => **[correction](https://github.com/thfruchart/1nsi/blob/main/S3/Exercices_CORR1.2.3.4.ipynb)**
 * [notebook : TravailPerso TABLEAUX1](https://github.com/thfruchart/1nsi/blob/main/S3/TRAVAIL_PERSONNEL_Tableaux1.ipynb)
 * [notebook : TravailPerso TABLEAUX2](https://github.com/thfruchart/1nsi/blob/main/S3/TRAVAIL_PERSONNEL_Tableaux2.ipynb)
 
