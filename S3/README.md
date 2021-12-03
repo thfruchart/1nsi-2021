@@ -27,3 +27,6 @@
 * [notebook : exercices](https://github.com/thfruchart/1nsi/blob/main/S3/Exercices.ipynb)
 * [notebook : TravailPerso TABLEAUX1](https://github.com/thfruchart/1nsi/blob/main/S3/TRAVAIL_PERSONNEL_Tableaux1.ipynb)
 * [notebook : TravailPerso TABLEAUX2](https://github.com/thfruchart/1nsi/blob/main/S3/TRAVAIL_PERSONNEL_Tableaux2.ipynb)
+
+
+* [QCM](https://genumsi.inria.fr/qcm.php?h=f38fde516dc930fd9f247a3524c1c41b)
