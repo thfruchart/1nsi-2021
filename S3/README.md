@@ -29,4 +29,10 @@
 * [notebook : TravailPerso TABLEAUX2](https://github.com/thfruchart/1nsi/blob/main/S3/TRAVAIL_PERSONNEL_Tableaux2.ipynb)
 
 
-* [QCM](https://genumsi.inria.fr/qcm.php?h=f38fde516dc930fd9f247a3524c1c41b)
+* [QCM d'entraînement LIST](https://genumsi.inria.fr/qcm.php?h=f38fde516dc930fd9f247a3524c1c41b)
+
+## 3. Notion de dictionnaire : le type `dict`
+#### dans le cahier
+* [Activité 4 p. 43](https://github.com/thfruchart/1nsi/blob/main/S3/Act3p43.md)
+
+
