@@ -42,7 +42,7 @@
 * COURS p.47
   * modification du dictionnaire
   * méthodes spécifiques
-* [QCM d'entraînement DICT](https://genumsi.inria.fr/qcm.php?h=a2a77f0673bc704f09e89b953dc17556) => [corrigé](https://genumsi.inria.fr/qcm-corrige.php?cle=Mjk3OzMzODs2MjY7Nzk2OzEzMzE7MTczNDsyOTg7MzUxOzEzMzg7MTE3NjsxNzM3
+* [QCM d'entraînement DICT](https://genumsi.inria.fr/qcm.php?h=a2a77f0673bc704f09e89b953dc17556) => [corrigé](https://genumsi.inria.fr/qcm-corrige.php?cle=Mjk3OzMzODs2MjY7Nzk2OzEzMzE7MTczNDsyOTg7MzUxOzEzMzg7MTE3NjsxNzM3)
 * Exercices 12 et 13 p.52
 
 
