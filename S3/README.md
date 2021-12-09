@@ -46,3 +46,5 @@
 * Exercices 12 et 13 p.52
 
 
+## 4. Parcours avec une boucle `for`
+* [Notebook de référence](https://github.com/thfruchart/1nsi/blob/main/S3/Parcours_type_construit.ipynb)
