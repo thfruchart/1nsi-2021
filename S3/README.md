@@ -34,5 +34,12 @@
 ## 3. Notion de dictionnaire : le type `dict`
 #### dans le cahier
 * [Activité 4 p. 43](https://github.com/thfruchart/1nsi/blob/main/S3/Act3p43.md)
+* COURS p.47
+  * création d'un dictionnaire
+  * accès aux éléments d'un dictionnaire
+* Activité 5 p.44
+* COURS p.47
+  * modification du dictionnaire
+  * méthodes spécifiques
 
 
