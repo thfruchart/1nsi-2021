@@ -43,5 +43,6 @@
   * modification du dictionnaire
   * méthodes spécifiques
 * [QCM d'entraînement DICT](https://genumsi.inria.fr/qcm.php?h=a2a77f0673bc704f09e89b953dc17556)
+* Exercices 12 et 13 p.52
 
 
