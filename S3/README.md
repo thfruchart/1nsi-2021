@@ -45,6 +45,7 @@
 * Exercices 12 et 13 p.52
 #### pour s'exercer
 * [QCM d'entraînement DICT](https://genumsi.inria.fr/qcm.php?h=cbb959459c8a953f46ea79e0c939647e) => [corrigé](https://genumsi.inria.fr/qcm-corrige.php?cle=Mjk3OzMzODs2MjY7Nzk2OzEzMzE7MTczNDsyOTg7MzUxOzEzMzg7MTE3NjsxNzM3)
+* [Travail Perso Dictionnaire](https://github.com/thfruchart/1nsi/blob/main/S3/TravailPersoDict.ipynb)
 
 
 
