@@ -12,3 +12,6 @@
 #### QCM
 * [Entraînement : binaire](https://genumsi.inria.fr/qcm.php?h=3ede5ddf7e6bc621c76aa74702e2d565)
 * [Entraînement : hexadécimal](https://genumsi.inria.fr/qcm.php?h=a5bce480359dc6ce1d1c3ca01397c7a1)
+
+# Comparaison entre flottants
+* [Un exemple classique](https://github.com/thfruchart/1nsi/blob/main/19/ComparaisonFlottants.ipynb)
