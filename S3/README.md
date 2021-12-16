@@ -53,3 +53,5 @@
 * [Notebook de référence](https://github.com/thfruchart/1nsi/blob/main/S3/Parcours_type_construit.ipynb)
 #### pour s'exercer
 * [Travail Perso Dictionnaire](https://github.com/thfruchart/1nsi/blob/main/S3/TravailPersoDict.ipynb)
+
+## [QCM d'évaluation](https://genumsi.inria.fr/qcm.php?h=63d2807bcb6d9ae7469f231ccd6ac518)
