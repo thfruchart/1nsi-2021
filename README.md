@@ -1,6 +1,6 @@
 # 1nsi
 Dépôt des cours de première NSI@stpbb
-## [S1 : représentation des nombres](https://github.com/thfruchart/1nsi/blob/main/19/README.md)
+## S1 : [représentation des nombres](https://github.com/thfruchart/1nsi/blob/main/19/README.md)
 
 ## S2 : [encodage des caractères](https://github.com/thfruchart/1nsi/blob/main/S2/README.md)
 
