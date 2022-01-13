@@ -4,3 +4,5 @@
 
 ### Pour s'exercer
 * [Terminus](http://luffah.xyz/bidules/Terminus/)
+
+### [Emulateur Linux](https://www.cahier-nsi.fr/jslinux/)
