@@ -9,6 +9,8 @@ Dépôt des cours de première NSI@stpbb
 
 ## S6 : [Architecture et système d'exploitation](https://github.com/thfruchart/1nsi/tree/main/S6#readme)
 
+## S9 : [Algorithmique](https://github.com/thfruchart/1nsi/tree/main/S9)
+
 ## Programmation Python
 * [Introduction à Python](https://github.com/thfruchart/1nsi/tree/main/01)
 * [Boucle bornée : `for`](https://github.com/thfruchart/1nsi/tree/main/02)
