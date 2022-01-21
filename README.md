@@ -17,3 +17,4 @@ Dépôt des cours de première NSI@stpbb
 * [Instruction conditionnelle : `if`](https://github.com/thfruchart/1nsi/tree/main/03)
 * [Fonction : `def ...`](https://github.com/thfruchart/1nsi/tree/main/04)
 * [Boucle non bornée : `while`](https://github.com/thfruchart/1nsi/tree/main/06)
+* [Tableaux définis par compréhension](https://github.com/thfruchart/1nsi/tree/main/05)
