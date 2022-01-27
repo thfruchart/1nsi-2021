@@ -3,3 +3,6 @@
 * [Exo1](https://github.com/thfruchart/1nsi/blob/main/S9/EXO1_Parcours_Tableau.ipynb)
 * [Exo2](https://github.com/thfruchart/1nsi/blob/main/S9/EXO2_Parcours_Tableau.ipynb)
 * [Exo3](https://github.com/thfruchart/1nsi/blob/main/S9/EXO3_Parcours_Tableau.ipynb)
+
+## Algorithmes de tri
+* [Activité 5 p. 146 : Tri par sélection](https://www.cahier-nsi.fr/tri_par_selection/)
