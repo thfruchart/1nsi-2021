@@ -22,6 +22,7 @@ Pour le déchiffrement, on procède de même en décalant dans l'autre sens.
 * Programmer en Python les fonctions suivantes décrites dans leur chaîne de documentation
 * tester chaque fonction sur des exemples pertinents. 
 
+#### Fonction `cherche_indice`
 ```Python
 def cherche_indice(car, texte):
     """car est un caractère, texte est une chaîne de caractères
@@ -38,6 +39,7 @@ exemples :
 -1
 ```
 
+#### Fonction `lettre_numero`
 ```Python
 ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
@@ -59,7 +61,7 @@ exemples :
 'Y'
 ```
 
-
+#### Fonction `cesar`
 ```Python
 def cesar(texte, decalage):
     """l'argument texte est écrit en MAJUSCULES (sans accents)
@@ -84,6 +86,7 @@ exemples :
 Le chiffrement de César est facile à casser si on connaît la lettre la plus fréquente du message (en français, par exemple, le E).
 
 On pourra commencer par programmer la fonction suivante 
+#### Fonction `occurrences`
 ```Python
 def occurrences(txt):
     """txt est un texte écrit en MAJUSCULES
