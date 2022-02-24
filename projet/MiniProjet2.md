@@ -1,6 +1,6 @@
 # Chiffrement de César 
 ## Principe
-Le principe du chiffrement de César est simple : il consiste à décaler chaque lettre de l'alphabet d'une certaine valeur, appelée la clé de chiffrement.
+Le principe du chiffrement de César est simple : il consiste à décaler chaque lettre de l'alphabet d'une certaine valeur, appelée la clé de chiffrement.  
 Par exemple, avec une clé **k=3**, toutes les lettres de l'alphabet sont décalées de trois.
 
 A ===> D  
