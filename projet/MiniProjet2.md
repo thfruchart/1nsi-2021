@@ -1,4 +1,4 @@
-# Chiffrement de César : un programme qui craque un message
+# Chiffrement de César 
 ## Principe
 Le principe du chiffrement de César est simple : il consiste à décaler chaque lettre de l'alphabet d'une certaine valeur, appelée la clé de chiffrement.
 Par exemple, avec une clé **k=3**, toutes les lettres de l'alphabet sont décalées de trois.
@@ -15,7 +15,7 @@ Ainsi le mot BAC sera chiffré EDF !
 
 Pour le déchiffrement, on procède de même en décalant dans l'autre sens.
 
-# 1. Partie TP
+# 1. Partie TP : chiffrement
 * Programmer en Python les fonctions suivantes décrites dans leur chaîne de documentation
 * tester chaque fonction sur des exemples pertinents. 
 
@@ -35,5 +35,61 @@ exemples :
 -1
 ```
 
+```Python
+ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
-## 2. Partie projet
+def lettre_numero(n):
+    """renvoie la lettre de l'ALPHABET dont le rang est n
+    que n soit compris entre 0 et 25 ou pas ! """
+```
+exemples : 
+```Python
+>>> lettre_numero(0)
+'A'
+>>> lettre_numero(25)
+'Z'
+>>> lettre_numero(26)
+'A'
+>>> lettre_numero(28)
+'C'
+>>> lettre_numero(-2)
+'Y'
+```
+
+
+```Python
+def cesar(texte, decalage):
+    """l'argument texte est écrit en MAJUSCULES (sans accents)
+    Renvoie le texte chiffré avec le méthode de César,
+    en prenant pour clé l'argument decalage """
+```
+exemples : 
+```Python
+>>> cesar('ABC', 1)
+'BCD'
+>>> cesar('ABC', -1)
+'ZAB'
+>>> cesar('BONJOUR, COMMENT CA VA ?', 11)
+'MZYUZFC, NZXXPYE NL GL ?'
+>>> cesar('NL GL MTPY, XPCNT PE EZT ?', -11)
+'CA VA BIEN, MERCI ET TOI ?'
+```
+
+
+
+## 2. Partie projet : un programme qui craque un message
+Le chiffrement de César est facile à casser si on connaît la lettre la plus fréquente du message (en français, par exemple, le E).
+
+On pourra commencer par programmer la fonction suivante 
+```Python
+def occurrences(txt):
+    """txt est un texte écrit en MAJUSCULES
+    la fonction renvoie un tableau contenant, pour chaque lettre de l'alphabet,
+    le nombre de fois où elle apparaît dans txt"""
+```
+exemples : 
+```Python
+>>> occurrences('AAAA BBB CC D ZZZZZ')
+[4, 3, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
+```
+
