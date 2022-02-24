@@ -99,8 +99,9 @@ exemples :
 [4, 3, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
 ```
 
+### Une fonction qui déchiffre des textes en français... 
 On donne ci-dessous plusieurs messages à déchiffrer. 
-Ecrire un programme capable de déchiffrer tous ces messages, en trouvant la clé de chiffrement (décalage) grâce à la recherche de la lettre la plus fréquente dans le texte chiffré. 
+Ecrire une fonction capable de déchiffrer tous ces messages, en trouvant la clé de chiffrement (décalage) grâce à la recherche de la lettre la plus fréquente dans le texte chiffré. 
 
 #### message 1
 ```
@@ -117,8 +118,8 @@ Ecrire un programme capable de déchiffrer tous ces messages, en trouvant la cl�
 "TMA JIBIQTTWVA MVDWGMA LM XIZQA MV DMVLMM KWUXBIQMVB VMCN KMVB LWCHM PWUUMA. KPIYCM JIBIQTTWV IDIQB BZWQA XQMKMA LM KIVWV. QTA IDIQMVB MBM ZIXQLMUMVB UQA ACZ XQML. TM 25 IDZQT, OWPQMZ MBIVB UQVQABZM LM TI RCABQKM MB JWCKPWBBM MBIVB UQVQABZM LM TI OCMZZM, TI AMKBQWV LC JWV-KWVAMQT IDIQB XZWXWAM L'MVDWGMZ LMA JIBIQTTWVA LM DWTWVBIQZMA MV DMVLMM; TM UMUJZM LM TI KWUUCVM TCJQV IDIQB NIQB TM ZIXXWZB; TM 1MZ UIQ, AIVBMZZM MBIQB XZMB I NIQZM XIZBQZ LWCHM UQTTM AWTLIBA, BZMVBM XQMKMA LM KIUXIOVM MB CV JIBIQTTWV LM KIVWVVQMZA."
 ```
 
-
-#### message 0...
+## Pour aller plus loin... 
+#### message 0
 ```
 "ATH QPIPXAADCH TCKDNTH ST EPGXH TC KTCSTT RDBEIPXTCI CTJU RTCI SDJOT WDBBTH. RWPFJT QPIPXAADC PKPXI IGDXH EXTRTH ST RPCDC. XAH PKPXTCI TIT GPEXSTBTCI BXH HJG EXTS. AT 25 PKGXA, VDWXTG TIPCI BXCXHIGT ST AP YJHIXRT TI QDJRWDIIT TIPCI BXCXHIGT ST AP VJTGGT, AP HTRIXDC SJ QDC-RDCHTXA PKPXI EGDEDHT S'TCKDNTG STH QPIPXAADCH ST KDADCIPXGTH TC KTCSTT; AT BTBQGT ST AP RDBBJCT AJQXC PKPXI UPXI AT GPEEDGI; AT 1TG BPX, HPCITGGT TIPXI EGTI P UPXGT EPGIXG SDJOT BXAAT HDASPIH, IGTCIT EXTRTH ST RPBEPVCT TI JC QPIPXAADC ST RPCDCCXTGH."
 ```
