@@ -19,11 +19,20 @@ Pour le déchiffrement, on procède de même en décalant dans l'autre sens.
 * Programmer en Python les fonctions suivantes décrites dans leur chaîne de documentation
 * tester chaque fonction sur des exemples pertinents. 
 
-```
+```Python
 def cherche_indice(car, texte):
     """car est un caractère, texte est une chaîne de caractères
     la fonction renvoie -1 si car ne figure pas dans texte
     sinon, elle renvoie le premier indice de car dans texte"""
+```
+exemples : 
+```
+>>> cherche_indice('A', 'ABCD')
+0
+>>> cherche_indice('D', 'ABCD')
+3
+>>> cherche_indice('X', 'ABCD')
+-1
 ```
 
 
