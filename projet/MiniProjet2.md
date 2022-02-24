@@ -7,11 +7,14 @@ A ===> D
 B ===> E  
 C ===> F  
 et ainsi de suite...  
+
+Ainsi le mot BAC sera chiffré EDF ! 
+
+
 en fin d'alphabet, on revient au début :  
 X ===> A  
 Y ===> B  
 Z ===> C  
-Ainsi le mot BAC sera chiffré EDF ! 
 
 Pour le déchiffrement, on procède de même en décalant dans l'autre sens.
 
@@ -92,4 +95,7 @@ exemples :
 >>> occurrences('AAAA BBB CC D ZZZZZ')
 [4, 3, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
 ```
+
+On donne ci-dessous plusieurs messages à déchiffrer. 
+Ecrire un programme capable de déchiffrer tous ces messages, en trouvant la clé de chiffrement (décalage) grâce à la recherche de la lettre la plus fréquente dans le texte chiffré. 
 
