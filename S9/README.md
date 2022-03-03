@@ -11,3 +11,5 @@
 ## Algorithmes de tri
 * [Activité 5 p. 146 : Tri par sélection](https://www.cahier-nsi.fr/tri_par_selection/)
 * [Notebook : chronométrer le tri par sélection](https://github.com/thfruchart/1nsi/blob/main/S9/Chrono_Tri_Selection.ipynb)
+* [COURS : complexité du tri par sélection](https://github.com/thfruchart/1nsi/blob/main/S9/COURS_Complexit%C3%A9_TRI.ipynb)
+* [Exercices : boucles imbriquées]()
