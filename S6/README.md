@@ -17,4 +17,7 @@
 ## Architechture de Von Neumann
 * dans le cahier : §4. p. 103
 * [simulateur en ligne](https://www.peterhigginson.co.uk/AQA/)
-* [code pour réaliser la multiplication](https://github.com/thfruchart/1nsi/blob/main/S6/Mult.md)
+  * exécuter l'exemple : `add` => modifier le programme pour additionner **trois** nombres saisis par l'utilisateur (on essaiera d'utiliser le moins de registres possibles)
+  * exécuter l'exemples : `max`=> repérer le rôle de l'accumulateur (noté **STATUS**) lorsqu'on exécute une instruction CMP (comparaison).
+* essayer de programmer la multiplication de deux nombres entiers saisis par l'utilisateur
+  * [code pour réaliser la multiplication](https://github.com/thfruchart/1nsi/blob/main/S6/Mult.md)
