@@ -21,3 +21,7 @@
   * exécuter l'exemples : `max`=> repérer le rôle de l'accumulateur (noté **STATUS**) lorsqu'on exécute une instruction CMP (comparaison).
 * essayer de programmer la multiplication de deux nombres entiers saisis par l'utilisateur
   * [code pour réaliser la multiplication](https://github.com/thfruchart/1nsi/blob/main/S6/Mult.md)
+
+### QCM
+* [Entraînement](https://genumsi.inria.fr/qcm.php?h=c0c3b506b7646ffbc847ab48f8a6f551)
+* [Evaluation](https://genumsi.inria.fr/qcm.php?h=49dc713deeb374913efeadc81314bd2b)
