@@ -15,3 +15,5 @@
 * [Exercices : boucles imbriquées](https://github.com/thfruchart/1nsi/blob/main/S9/Activit%C3%A9_Boucles_imbriqu%C3%A9es.ipynb)
 * [Activité 6 p.148 : Tri par insertion](https://www.cahier-nsi.fr/tri_par_insertion/)
   * voir aussi [ce lien](https://interstices.info/les-algorithmes-de-tri/)
+### QCM
+* [entraînement](https://genumsi.inria.fr/qcm.php?h=087eb74a9ee2ca0627241fbbeada2147)
