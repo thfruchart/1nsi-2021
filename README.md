@@ -9,6 +9,8 @@ Dépôt des cours de première NSI@stpbb
 
 ## S6 : [Architecture et système d'exploitation](https://github.com/thfruchart/1nsi/tree/main/S6#readme)
 
+## S7 : [Architecture et système d'exploitation](https://github.com/thfruchart/1nsi/tree/main/S7#readme)
+
 ## S9 : [Algorithmique](https://github.com/thfruchart/1nsi/tree/main/S9)
 
 ## S10 : [Algorithmique avancée](https://github.com/thfruchart/1nsi/tree/main/S10)
