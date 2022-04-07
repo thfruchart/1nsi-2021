@@ -3,7 +3,7 @@
 * **Algorithmes gloutons**
   * [Problème du sac à dos](https://github.com/thfruchart/1nsi/blob/main/S10/SacADos.ipynb) => [CORRECTION](https://github.com/thfruchart/1nsi/blob/main/S10/SacADos_COMPLET.ipynb)
   * [Problème du rendu monnaie](https://github.com/thfruchart/1nsi/blob/main/S10/Rendu_Monnaie.ipynb)
-* Recherche dichotomique
+* **Recherche dichotomique**
   * [Activité](https://github.com/thfruchart/1nsi/blob/main/S10/ACTIVITE_recherche_liste.ipynb) => [Correction](https://github.com/thfruchart/1nsi/blob/main/S10/ACTIVITE_recherche_liste_CORRECTION.ipynb)
   * [COURS](https://github.com/thfruchart/1nsi/blob/main/S10/COURS_Recherche_Dichotomique.ipynb)
   * [Exercices](https://github.com/thfruchart/1nsi/blob/main/S10/EXERCICES_Dichotomie.ipynb) => [Correction](https://github.com/thfruchart/1nsi/blob/main/S10/EXERCICES_Dichotomie_CORRECTION.ipynb)
