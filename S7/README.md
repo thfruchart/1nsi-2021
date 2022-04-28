@@ -7,3 +7,10 @@
 * [Entraînement](https://genumsi.inria.fr/qcm.php?h=42c51d98596a9e7cebd43bb55e731a60)
 ## TP
 * [Consignes](https://github.com/thfruchart/1nsi/blob/main/S7/NSI_Reseaux_Filius.pdf)
+## Commandes sous linux
+* [Emulateur Linux](https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/buildroot-x86.cfg)
+* tester les commandes suivantes : 
+  * `ifconfig`
+  * `nslookup stpaulbb.org`
+  * `ping` (choisir une adresse ip pour le test)
+  * `traceroute` (choisir une adresse ip pour le test)
