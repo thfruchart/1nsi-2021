@@ -14,3 +14,7 @@
   * `nslookup` (par exemple vers `stpaulbb.org`)
   * `ping` (choisir une adresse ip pour le test)
   * `traceroute` (choisir une adresse ip pour le test)
+
+# IHM : capteurs et actionneurs
+* Activité 4 p. 116
+* [QCM entraînement](https://genumsi.inria.fr/qcm.php?h=d0109ac22daa5d746e4d3a6be62eb0c5) => [](https://genumsi.inria.fr/qcm-corrige.php?cle=NjQ2OzY4Njs4MTU7ODU1Ozk4MzsxMDY3OzExMTA=) 
