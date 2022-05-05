@@ -10,6 +10,6 @@
 3. Compléter le fichier csv pour faire afficher la capitale des USA sur la carte
 
 ## Activité 1 p. 58
-* [Lien vers éditeur Python en ligne](https://www.cahier-nsi.fr/webpython/?template=Seq4_activite1.py)
+* [Lien vers éditeur Python en ligne](https://www.cahier-nsi.fr/webpython/?template=Seq4_activite1.py) => [correction](https://github.com/thfruchart/1nsi/blob/main/S4/Act1p58.md)
 * Cours : §1 §2 p. 62
 * [QCM entraînement](https://genumsi.inria.fr/qcm.php?h=9edf61f67a09b941548fd3de292bfad6)  ... [](https://genumsi.inria.fr/qcm-corrige.php?cle=Mzc2OzQ3NDs1ODk7NTkwOzU5NDs2MzE7NjM1OzYzNjs3MTY7NzE3OzgwNDs5NzI7MTAxNDsxNzYw)
