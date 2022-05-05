@@ -7,6 +7,10 @@ Dépôt des cours de première NSI@stpbb
 
 ## S3 : [types construits](https://github.com/thfruchart/1nsi/blob/main/S3/README.md)
 
+## S4 : [Données en tables](https://github.com/thfruchart/1nsi/tree/main/S4)
+
+## S5 : [IHM sur le WEB](https://github.com/thfruchart/1nsi/tree/main/S5)
+
 ## S6 : [Architecture et système d'exploitation](https://github.com/thfruchart/1nsi/tree/main/S6#readme)
 
 ## S7 : [Réseaux et IHM](https://github.com/thfruchart/1nsi/tree/main/S7#readme)
