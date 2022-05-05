@@ -9,5 +9,5 @@
 2. Rechercher les données correspondant à la capitale des USA
 3. Compléter le fichier csv pour faire afficher la capitale des USA sur la carte
 
-### Activité 1 p. 58
+## Activité 1 p. 58
 * [Lien vers éditeur Python en ligne](https://www.cahier-nsi.fr/webpython/?template=Seq4_activite1.py)
