@@ -11,5 +11,5 @@
 
 ## Activité 1 p. 58
 * [Lien vers éditeur Python en ligne](https://www.cahier-nsi.fr/webpython/?template=Seq4_activite1.py)
-* Cours : §1 p. 62
+* Cours : §1 §2 p. 62
 * [QCM entraînement](https://genumsi.inria.fr/qcm.php?h=ed71139c62829aa2d5eafe0a1fff1fef)
