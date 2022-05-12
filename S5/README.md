@@ -19,3 +19,8 @@
 ## Activité 3 p.75 et 4 p.76
 * [Interface pour l'activité](https://www.cahier-nsi.fr/jsbin_convertisseur/?html,js,output)
 * Cours §4 §5 §6 p.81-82 
+
+
+## Formulaire : méthode GET ou POST ?
+* Cours §7 p. 83
+* [QCM](https://genumsi.inria.fr/qcm.php?h=b35aaff47cfcf8b97a8e001219a010c0)
