@@ -24,5 +24,8 @@
 
 
 ## Formulaire : méthode GET ou POST ?
+* Activité
+   *  [formulaire1](https://www.cahier-nsi.fr/formulaire1/)
+   *  [formulaire2](https://www.cahier-nsi.fr/formulaire2/)
 * Cours §7 p. 83
 * [QCM](https://genumsi.inria.fr/qcm.php?h=b35aaff47cfcf8b97a8e001219a010c0) ...[](https://genumsi.inria.fr/qcm-corrige.php?cle=MTI4OzE1OTsyNjA7MjYyOzI2NTsxMzQ2OzE2MDI7MTYwOA==)
