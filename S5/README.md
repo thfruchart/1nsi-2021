@@ -10,8 +10,9 @@
 ![Schéma](http://moodle.iutv.univ-paris13.fr/img/cm-update/js-cm-1-cm-update-523.png)
 
 * Cours §2 et 3 p.80-81
-* [Page reçu par le client](https://www.cahier-nsi.fr/pendules/)
-* [Code exécuté sur le serveur)[https://github.com/thfruchart/1nsi/blob/main/S5/pendules.php]
+* Exemple : 
+  * [Page reçu par le client](https://www.cahier-nsi.fr/pendules/)
+  * [Code exécuté sur le serveur)[https://github.com/thfruchart/1nsi/blob/main/S5/pendules.php]
 
 
 ## Activité 3 p.75 et 4 p.76
