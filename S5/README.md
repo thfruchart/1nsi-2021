@@ -13,7 +13,7 @@
   * [Page reçu par le client](https://www.cahier-nsi.fr/pendules/)
   * [Code exécuté sur le serveur](https://github.com/thfruchart/1nsi/blob/main/S5/pendules.php)
 
-* Cours §2 et 3 p.80-81 avec [QCM])(https://genumsi.inria.fr/qcm.php?h=3ec65fc47407f0b09e19f59d51c866a2) ... [](https://genumsi.inria.fr/qcm-corrige.php?cle=MTYwOzE2MjsxNjc7MjM3OzM1NzszNTg7MzYwOzU5OTs2Mzc7NjM4OzY4MDsxMTAyOzExNDc7MTU1ODsxNTY2OzE1Njc=)
+* Cours §2 et 3 p.80-81 avec [QCM](https://genumsi.inria.fr/qcm.php?h=3ec65fc47407f0b09e19f59d51c866a2) ... [](https://genumsi.inria.fr/qcm-corrige.php?cle=MTYwOzE2MjsxNjc7MjM3OzM1NzszNTg7MzYwOzU5OTs2Mzc7NjM4OzY4MDsxMTAyOzExNDc7MTU1ODsxNTY2OzE1Njc=)
 
 
 ## Activité 3 p.75 et 4 p.76
