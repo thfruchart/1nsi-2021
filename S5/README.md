@@ -6,10 +6,11 @@
 
 
 ## Modèle Client-Serveur
-* Cours §2 et 3 p.80-81
+
 ![Schéma](http://moodle.iutv.univ-paris13.fr/img/cm-update/js-cm-1-cm-update-523.png)
 
-
+* Cours §2 et 3 p.80-81
+* 
 ## Activité 3 p.75 et 4 p.76
 * [Interface pour l'activité](https://www.cahier-nsi.fr/jsbin_convertisseur/?html,js,output)
 * 
