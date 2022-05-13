@@ -13,14 +13,14 @@
   * [Page reçue par le client](https://www.cahier-nsi.fr/pendules/)
   * [Code exécuté sur le serveur](https://github.com/thfruchart/1nsi/blob/main/S5/pendules.php)
 * Cours §2 et 3 p.80-81 avec [QCM](https://genumsi.inria.fr/qcm.php?h=3ec65fc47407f0b09e19f59d51c866a2) ... [](https://genumsi.inria.fr/qcm-corrige.php?cle=MTYwOzE2MjsxNjc7MjM3OzM1NzszNTg7MzYwOzU5OTs2Mzc7NjM4OzY4MDsxMTAyOzExNDc7MTU1ODsxNTY2OzE1Njc=)
-* Exercice : 
-  * modifier la page de l'activité pour afficher les **deux résultats** : format binaire **et** format décimal.
-  * ajouter un peu de couleur et de style sur la page : on pourra consulter le site [W3schools](https://www.w3schools.com/css/) pour une aide sur le langage `css`.
 
 
 ## Activité 3 p.75 et 4 p.76
 * [Interface pour l'activité](https://www.cahier-nsi.fr/jsbin_convertisseur/?html,js,output)
 * Cours §4 §5 §6 p.81-82 
+* Exercice : 
+  * modifier la page de l'activité pour afficher les **deux résultats** : format binaire **et** format décimal.
+  * ajouter un peu de couleur et de style sur la page : on pourra consulter le site [W3schools](https://www.w3schools.com/css/) pour une aide sur le langage `css`.
 
 
 ## Formulaire : méthode GET ou POST ?
