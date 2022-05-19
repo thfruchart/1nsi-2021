@@ -31,3 +31,8 @@
 * Cours §7 p. 83
 * [QCM](https://genumsi.inria.fr/qcm.php?h=b35aaff47cfcf8b97a8e001219a010c0) ...[](https://genumsi.inria.fr/qcm-corrige.php?cle=MTI4OzE1OTsyNjA7MjYyOzI2NTsxMzQ2OzE2MDI7MTYwOA==)
 * exercice 11 p.87
+
+### Exercice 9 p.86
+* [lien vers l'interface de programmation](https://www.cahier-nsi.fr/jsbin_exercice9/?html,js,output)
+* aide [html](https://github.com/thfruchart/1nsi/blob/main/S5/Exo9/start.html)
+* aide [js](https://github.com/thfruchart/1nsi/blob/main/S5/Exo9/start.js)
