@@ -33,6 +33,7 @@
 * exercice 11 p.87
 
 ### Exercice 9 p.86
-* [lien vers l'interface de programmation](https://www.cahier-nsi.fr/jsbin_exercice9/?html,js,output)
+* [lien vers l'interface de programmation de l'exercice 9](https://www.cahier-nsi.fr/jsbin_exercice9/?html,js,output) 
+  * on pourra consulter aussi l'[Activité3](https://www.cahier-nsi.fr/jsbin_convertisseur/?html,js,output)
 * aide [html](https://github.com/thfruchart/1nsi/blob/main/S5/Exo9/start.html)
 * aide [js](https://github.com/thfruchart/1nsi/blob/main/S5/Exo9/start.js)
