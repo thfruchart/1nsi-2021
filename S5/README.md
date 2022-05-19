@@ -29,7 +29,7 @@
    *  [fichier `cible1.php`](https://github.com/thfruchart/1nsi/blob/main/S5/cible_1.php)
    *  [formulaire2](https://www.cahier-nsi.fr/formulaire2/)
 * Cours §7 p. 83
-* [QCM](https://genumsi.inria.fr/qcm.php?h=b35aaff47cfcf8b97a8e001219a010c0) ...[](https://genumsi.inria.fr/qcm-corrige.php?cle=MTI4OzE1OTsyNjA7MjYyOzI2NTsxMzQ2OzE2MDI7MTYwOA==)
+* [QCM](https://genumsi.inria.fr/qcm.php?h=b35aaff47cfcf8b97a8e001219a010c0) => [réponses](https://genumsi.inria.fr/qcm-corrige.php?cle=MTI4OzE1OTsyNjA7MjYyOzI2NTsxMzQ2OzE2MDI7MTYwOA==)
 * exercice 11 p.87
 
 ### Exercice 9 p.86
