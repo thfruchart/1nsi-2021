@@ -37,3 +37,6 @@
   * on pourra consulter aussi l'[Activité3](https://www.cahier-nsi.fr/jsbin_convertisseur/?html,js,output)
 * aide [html](https://github.com/thfruchart/1nsi/blob/main/S5/Exo9/start.html)
 * aide [js](https://github.com/thfruchart/1nsi/blob/main/S5/Exo9/start.js)
+* proposition de correction : 
+  *  [html](https://github.com/thfruchart/1nsi/blob/main/S5/Exo9/fichier.html)
+  *  [css](https://github.com/thfruchart/1nsi/blob/main/S5/Exo9/fonction.js)
