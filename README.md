@@ -1,7 +1,7 @@
 # 1nsi
 Dépôt des cours de première NSI@stpbb
 
-# [Projets]
+# Projets
 * [pierre/feuille/ciseaux](https://github.com/thfruchart/PFC)
 * [quizz](https://github.com/thfruchart/QUIZZ)
 
