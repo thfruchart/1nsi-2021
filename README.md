@@ -4,6 +4,7 @@ Dépôt des cours de première NSI@stpbb
 # Projets
 * [pierre/feuille/ciseaux](https://github.com/thfruchart/PFC)
 * [quizz](https://github.com/thfruchart/QUIZZ)
+*  [lien vers l'interface de programmation de l'exercice 9](https://www.cahier-nsi.fr/jsbin_exercice9/?html,js,output)
 
 ## S1 : [représentation des nombres](https://github.com/thfruchart/1nsi/blob/main/19/README.md)
 
