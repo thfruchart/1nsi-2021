@@ -1,7 +1,9 @@
 # 1nsi
 Dépôt des cours de première NSI@stpbb
 
-# [Révisions](https://github.com/thfruchart/1nsi/blob/main/eval/revision.md)
+# [Projets]
+* [pierre/feuille/ciseaux](https://github.com/thfruchart/PFC)
+* [quizz](https://github.com/thfruchart/QUIZZ)
 
 ## S1 : [représentation des nombres](https://github.com/thfruchart/1nsi/blob/main/19/README.md)
 
